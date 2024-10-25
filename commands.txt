@@ -1,0 +1,18 @@
+javac -cp ".;E:\Fall 2024\Resources\Lab 3\jeromq.jar" Zserver.java
+java -cp ".;E:\Fall 2024\Resources\Lab 3\jeromq.jar" ZServer
+
+javac -cp "E:\Fall 2024\Resources\Lab 3\jeromq.jar" ZClient.java
+java -cp ".;E:\Fall 2024\Resources\Lab 3\jeromq.jar" ZClient
+
+
+javac -cp ".;E:\Fall 2024\Resources\Lab 3\jeromq.jar" hwclient.java
+java -cp ".;E:\Fall 2024\Resources\Lab 3\jeromq.jar" hwclient
+
+javac -cp ".;E:\Fall 2024\Resources\Lab 3\jeromq.jar" hwserver.java
+java -cp ".;E:\Fall 2024\Resources\Lab 3\jeromq.jar" hwserver
+
+javac -cp ".;E:\Fall 2024\Resources\Lab 3\jeromq.jar" wuserver.java
+java -cp ".;E:\Fall 2024\Resources\Lab 3\jeromq.jar" wuserver
+
+javac -cp ".;E:\Fall 2024\Resources\Lab 3\jeromq.jar" wuclient.java
+java -cp ".;E:\Fall 2024\Resources\Lab 3\jeromq.jar" wuclient
